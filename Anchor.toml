@@ -1,0 +1,14 @@
+[features]
+seeds = false
+[programs.devnet]
+pstake = "6otLCg4RkhXfkMd5UVP378qHBBxPdDeXDQYgNfFVMLP"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/abdullah/.config/solana/devnet.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
