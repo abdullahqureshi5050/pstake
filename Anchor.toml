@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.devnet]
-pstake = "6otLCg4RkhXfkMd5UVP378qHBBxPdDeXDQYgNfFVMLP"
+pstake = "2W1dtkJdDkpc2xAA1Pi7CrU7vVybvsdc3jULmFxeV8Vm"
 
 [registry]
 url = "https://anchor.projectserum.com"

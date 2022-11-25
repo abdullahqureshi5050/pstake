@@ -18,8 +18,6 @@ use anchor_spl::token::{
     Transfer,
 };
 
-
-
 declare_id!("EXZJ3cCRD8dxmTYPxY4nWEWjGiwiW1U9yz2jzJzngnLg");
 
 fn update_reward_pool(
